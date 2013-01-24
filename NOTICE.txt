@@ -1,0 +1,5 @@
+Apache Lucene
+Copyright 2012 Greg Bowyer
+
+This product includes software developed by
+Greg Bowyer
