@@ -49,7 +49,8 @@ def victimise(victim, uri):
 
 def process_url(urls):
     for url in urls:
-        victimise(VICTIMS[0], url)
+        print url
+        #victimise(VICTIMS[0], url)
 
 stream.on_recv(process_url)
 loop.start()
